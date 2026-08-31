@@ -3,18 +3,18 @@ A multiple sequence alignment using a star alignment strategy to align remote ho
 
 Physicochemical alignments are similar to standard alignments with a few main differences. They are physicochemical equivalency alignments. In other words, they will only directly correspond to the true evolutionary path when the physicochemical properties selected for at each residue position are known. However, some of the more fundamental physicochemical properties have proven to be good general indicators; most notably molecular weight and hydrophobicity.
 
-==========================================================================================================================================
+=======================================================================================================
 
 Visuals:
 <img width="1490" height="59" alt="image" src="https://github.com/user-attachments/assets/5fee29d0-b6f2-4b3b-ac17-2739b4ebf8fa" />
 
-==========================================================================================================================================
+=======================================================================================================
 
 Installation Instructions:
 To install PCDTW (Two Options): -Use ‘pip install PCDTW’ in a powershell prompt -Use ‘!pip install PCDTW’ in a jupyter notebook
 To use PCDTW: Use ‘import PCDTW’
 
-==========================================================================================================================================
+=======================================================================================================
 
 Usage:
 FASTALoc=Fasta file location as a string
